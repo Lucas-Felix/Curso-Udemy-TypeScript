@@ -1,4 +1,4 @@
-// let nome = "Flavio"; // Sting
+// let nome = "Flávio"; // Sting
 
 // console.log(nome, "nasceu em 1999.");
 // console.log("Em 2006", nome,"conheceu Dani");
@@ -6,21 +6,21 @@
 // console.log( nome, "seguiu a vida depois disso sem Dani");
 // console.log("e assim é a vida de", nome,"e Dani");
 
-let nome; //Declarou variavel
-nome = "João"; //Inicializou a variavel
+let nome; //Declarou variável
+nome = "João"; //Inicializou a variável
 console.log(nome);
-nome ="Otavio";
+nome ="Otávio";
 console.log(nome);
 
-/*Não podemos criar variaveis com palavras reservadadas
+/*Não podemos criar variáveis com palavras reservadas
 ex: let let
-Variaveis precisam de nome significativos
+Variáveis precisam de nome significativos
 ex: let nomeCliente = 'João';
 console.log(nomeCliente);
-Não pode começar variavel com numero e começar com letras minusculas 
+Não pode começar variável com numero e começar com letras minúsculas 
 utilizamos camelCase
 ex: let nomeCompletoDoCliente;
-Variaveis Case-sensitive = letras maiusculas e minusculas fazem diferença
-Não podemos redeclarar variaveis com let
+Variáveis Case-sensitive = letras maiúsculas e minúsculas fazem diferença
+Não podemos redecorar variáveis com let
 Sempre utilizar let
 */
